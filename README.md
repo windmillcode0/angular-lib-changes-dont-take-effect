@@ -1,7 +1,7 @@
 # [TITLE HERE]
 
 ## Links to issue
-*[Github]()
+*[Github](https://github.com/windmillcode0/angular-lib-changes-dont-take-effect)
 
 ## Expected Behavior
 consumer should recongize the changes in the lib and reload
